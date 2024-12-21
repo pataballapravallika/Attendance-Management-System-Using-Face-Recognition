@@ -20,9 +20,11 @@ Attendance Management System Using Face Recognition is a desktop application des
 ![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*R-ObQiGjDK4Njd5tSQEz5g.png)
 
 - Face matches
-![](https://cdn-images-1.medium.com/max/778/1*zCKH606XA7hdS86l0ApN8A.gif)
+![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zCKH606XA7hdS86l0ApN8A.gif)
 
 - Face not matches
+
+
 ![](https://b2633864.smushcdn.com/2633864/wp-content/uploads/2018/02/deep_learning_face_detection_opencv.gif?lossy=2&strip=1&webp=1)
 
 ## Technologies Used
