@@ -20,7 +20,7 @@ Attendance Management System Using Face Recognition is a desktop application des
 ![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*R-ObQiGjDK4Njd5tSQEz5g.png)
 
 - Face matches
-![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zCKH606XA7hdS86l0ApN8A.gif)
+![](https://pyimagesearch.com/wp-content/uploads/2018/06/face_recognition_opencv_example_02.jpg)
 
 - Face not matches
 
